@@ -8,7 +8,7 @@
 </p>
 
 
-# 📚 API de Biblioteca Laravel
+# 📚 API de Biblioteca Laravel AOO
 
 Esta API permite gestionar libros y registrar préstamos en una biblioteca. Está desarrollada con Laravel siguiendo los principios de la arquitectura orientada a objetos.
 
